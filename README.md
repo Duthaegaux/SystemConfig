@@ -7,7 +7,17 @@ Dependencies:
 wmi
 
 Docs:
-showProcessor -- prints process or info
+
+
+showProcessor -- prints processor info
+
+
 showGraphics -- prints graphics card info
+
+
 showRAM -- prints RAM info
+
+
 showStorage -- prints all disk info
+
+
