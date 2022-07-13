@@ -1,12 +1,11 @@
-# SystemConfig
-A simple program, writed on Python using WMI and ctypes.
+# SysConfUtil
+A package of utilities from SystemConfig
 
-If u wanna start my .py code, just install wmi (pip install wmi)
+Dependencies:
+wmi
 
-What SystemConfig do?
-SystemConfig print components of your PC or Notebook like processor, graphics card etc.
-
-
-Warning! GPU Memory could displays incorrecly! It could display up to 4 GB memory.
-
-Tested on Windows 10 PC and Notebook.
+Docs:
+showProcessor -- prints process or info
+showGraphics -- prints graphics card info
+showRAM -- prints RAM info
+showStorage -- prints all disk info
