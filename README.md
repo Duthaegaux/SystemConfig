@@ -1,6 +1,8 @@
 # SysConfUtil
 A package of utilities from SystemConfig
 
+IT IS NOT FUNCTIONAL YET
+
 Dependencies:
 wmi
 
