@@ -1,5 +1,6 @@
 # SystemConfig
 A simple program, writed on Python using WMI and ctypes.
+
 If u wanna start my .py code, just install wmi (pip install wmi)
 
 What SystemConfig do?
