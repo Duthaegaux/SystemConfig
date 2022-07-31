@@ -2,7 +2,7 @@
 A simple program, writed on Python using WMI, PyQt6 and ctypes.
 
 
-If wanna download SystemConfig, just download it from releases, cuz file weight near 40 mb.
+If u wanna download SystemConfig, just download it from releases, cuz file weight near 40 mb.
 
 
 If u wanna start my .py code, just install wmi (pip install wmi).
